@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/chap1-basic-concepts.md",
+                "file": "notes/chap2-language-meaning-and-definition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chap1-basic-concepts"
+              "title": "chap2-language-meaning-and-definition"
             }
           }
         ]
@@ -183,11 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e417090a9b284d20",
+  "active": "21ff31076dc7d621",
   "lastOpenFiles": [
+    "notes/chap1-basic-concepts.md",
+    "notes/chap2-language-meaning-and-definition.md",
     "img",
     "img/premises-and-conclusion.png",
-    "notes/chap1-basic-concepts.md",
     "book/hilighted_A_Concise_Introduction_to_Logic-Cengage_Learning_2023.pdf",
     "book/Patrick_J._Hurley_-_A_Concise_Introduction_to_Logic-Cengage_Learning_2023 (1) (1) - Copy.pdf"
   ]
